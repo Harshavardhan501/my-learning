@@ -1,4 +1,5 @@
-Simple Greeting Program: Write a Python program that asks the user for their name and age, then prints a personalized greeting message. Use both the + operator and f-strings for output
+Simple Greeting Program: Write a Python program that asks the user for their name and age, then prints a personalized greeting message. Use both the + operator and f-strings.
+
 **Program:**
 name = input("Enter you name: ")
 age = input("Enter your age: ")
